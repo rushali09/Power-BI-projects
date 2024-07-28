@@ -1,6 +1,8 @@
 Hey Folks!
 Welcome to My Power BI Dashboards and Data Projects Repository!
 
+This repository is dedicated to showcasing my Power BI projects, which will include a variety of interactive dashboards, reports, and data visualizations. As I progress through my Power BI courses and apply my skills to real-world datasets, I will regularly update this repository with new projects. My aim is to demonstrate the practical application of Power BI in solving complex business problems, uncovering actionable insights, and presenting data in a meaningful and accessible way.
+
 Power BI is a business intelligent tool developed by Microsoft, which helps users to visualize thier data and share insights across organization. It is a combination of four components namely:
 1. Power Query: Power Query is a powerful data connection technology that enables you to discover, connect, combine, and refine data across a wide variety of sources. Think of it as the first step in your data journey. It helps you gather raw data from different places, clean it up, and transform it into a structured format that's ready for analysis. Whether you're pulling in data from Excel files, databases, or web sources, Power Query makes it easy to prepare your data without needing to write any code.
 
